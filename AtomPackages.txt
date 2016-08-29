@@ -1,0 +1,1 @@
+apm install atom-html-preview browser-plus color-picker file-icons git-plus highlight-selected linter linter-csslint linter-jshint markdown-preview-plus minimap minimap-highlight-selected project-manager
